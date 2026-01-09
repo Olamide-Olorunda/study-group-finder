@@ -1,0 +1,20 @@
+{
+  "name": "study_group_finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+        "start": "node js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olamide-Olorunda/study-group-finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olamide-Olorunda/study-group-finder/issues"
+  },
+  "homepage": "https://github.com/Olamide-Olorunda/study-group-finder#readme",
+  "description": ""
+}
